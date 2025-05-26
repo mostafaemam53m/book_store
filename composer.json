@@ -1,0 +1,17 @@
+{
+    "name": "team4/book_store",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    },
+    "authors": [
+        {
+            "name": "saaed and mostafa"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
