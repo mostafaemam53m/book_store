@@ -4,13 +4,15 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Document</title>
+  <title><?= $pageTitle?></title>
   <link rel="icon" href="App/assets/images/logo.png" type="image/x-icon"/>
   <link rel="stylesheet" href="App/assets/css/vendors/all.min.css">
   <link rel="stylesheet" href="App/assets/css/vendors/bootstrap.rtl.min.css">
   <link rel="stylesheet" href="App/assets/css/vendors/owl.carousel.min.css">
   <link rel="stylesheet" href="App/assets/css/vendors/owl.theme.default.min.css">
   <link rel="stylesheet" href="App/assets/css/main.min.css">
+  <!-- Google Font: Source Sans Pro -->
+	
 </head>
 
 <body>
@@ -27,7 +29,7 @@
             شحن مجاني للطلبات 💥 عند الشراء ب 699ج او اكثر
           </div>
           <div class="header__branches d-flex gap-2 align-items-center">
-            <a class="text-white text-decoration-none" href="branches.html">
+            <a class="text-white text-decoration-none" href="index.php?page=branches">
               <i class="fa-solid fa-location-dot"></i>
               فروعنا  
             </a>
