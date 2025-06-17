@@ -1,5 +1,4 @@
- <main class="pt-4">
-    <!-- Hero Section Start -->
+     <!-- Hero Section Start -->
     <section class="section-container hero">
       <div class="owl-carousel hero__carousel owl-theme">
         <div class="hero__item">

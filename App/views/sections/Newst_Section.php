@@ -1,9 +1,13 @@
- <!-- Products Section Start -->
-    <section class="section-container mb-4">
+<!--  Section Start -->
+    <section class="section-container mb-5">
+      <div class="products__header mb-4 d-flex align-items-center justify-content-between">
+        <h4 class="m-0">وصل حديثا</h4>
+        <button class="products__btn py-2 px-3 rounded-1">تسوق الأن</button>
+      </div>
       <div class="owl-carousel products__slider owl-theme">
         <div class="products__item">
           <div class="product__header mb-3">
-            <a href="../product/single-product.php">
+            <a href="single-product.html">
               <div class="product__img-cont">
                 <img class="product__img w-100 h-100 object-fit-cover" src="App/assets/images/product-1.webp" data-id="white">
               </div>
@@ -17,7 +21,7 @@
             </div>
           </div>
           <div class="product__title text-center">
-            <a class="text-black text-decoration-none" href="../product/single-product.php">
+            <a class="text-black text-decoration-none" href="single-product.html">
               Flutter Apprentice
             </a>
           </div>
@@ -35,7 +39,7 @@
         </div>
         <div class="products__item">
           <div class="product__header mb-3">
-            <a href="../product/single-product.php">
+            <a href="single-product.html">
               <div class="product__img-cont">
                 <img class="product__img w-100 h-100 object-fit-cover" src="App/assets/images/product-2.webp" data-id="white">
               </div>
@@ -49,7 +53,7 @@
             </div>
           </div>
           <div class="product__title text-center">
-            <a class="text-black text-decoration-none" href="../product/single-product.php">
+            <a class="text-black text-decoration-none" href="single-product.html">
               Modern Full-Stack Development
             </a>
           </div>
@@ -67,7 +71,7 @@
         </div>
         <div class="products__item">
           <div class="product__header mb-3">
-            <a href="../product/single-product.php">
+            <a href="single-product.html">
               <div class="product__img-cont">
                 <img class="product__img w-100 h-100 object-fit-cover" src="App/assets/images/product-3.webp" data-id="white">
               </div>
@@ -81,7 +85,7 @@
             </div>
           </div>
           <div class="product__title text-center">
-            <a class="text-black text-decoration-none" href="../product/single-product.php">
+            <a class="text-black text-decoration-none" href="single-product.html">
               C# 10 in a Nutshell
             </a>
           </div>
@@ -99,7 +103,7 @@
         </div>
         <div class="products__item">
           <div class="product__header mb-3">
-            <a href="../product/single-product.php">
+            <a href="single-product.html">
               <div class="product__img-cont">
                 <img class="product__img w-100 h-100 object-fit-cover" src="App/assets/images/product-4.webp" data-id="white">
               </div>
@@ -113,7 +117,7 @@
             </div>
           </div>
           <div class="product__title text-center">
-            <a class="text-black text-decoration-none" href="../product/single-product.php">
+            <a class="text-black text-decoration-none" href="single-product.html">
               Algorithms عربي
             </a>
           </div>
@@ -131,7 +135,7 @@
         </div>
         <div class="products__item">
           <div class="product__header mb-3">
-            <a href="../product/single-product.php">
+            <a href="single-product.html">
               <div class="product__img-cont">
                 <img class="product__img w-100 h-100 object-fit-cover" src="App/assets/images/product-5.webp" data-id="white">
               </div>
@@ -145,7 +149,7 @@
             </div>
           </div>
           <div class="product__title text-center">
-            <a class="text-black text-decoration-none" href="../product/single-product.php">
+            <a class="text-black text-decoration-none" href="single-product.html">
               Head-First Design Patterns
             </a>
           </div>
@@ -163,7 +167,7 @@
         </div>
         <div class="products__item">
           <div class="product__header mb-3">
-            <a href="../product/single-product.php">
+            <a href="single-product.html">
               <div class="product__img-cont">
                 <img class="product__img w-100 h-100 object-fit-cover" src="App/assets/images/product-1.webp" data-id="white">
               </div>
@@ -177,7 +181,7 @@
             </div>
           </div>
           <div class="product__title text-center">
-            <a class="text-black text-decoration-none" href="../product/single-product.php">
+            <a class="text-black text-decoration-none" href="single-product.html">
               Flutter Apprentice
             </a>
           </div>
@@ -195,7 +199,7 @@
         </div>
         <div class="products__item">
           <div class="product__header mb-3">
-            <a href="../product/single-product.php">
+            <a href="single-product.html">
               <div class="product__img-cont">
                 <img class="product__img w-100 h-100 object-fit-cover" src="App/assets/images/product-2.webp" data-id="white">
               </div>
@@ -209,7 +213,7 @@
             </div>
           </div>
           <div class="product__title text-center">
-            <a class="text-black text-decoration-none" href="../product/single-product.php">
+            <a class="text-black text-decoration-none" href="single-product.html">
               Modern Full-Stack Development
             </a>
           </div>
@@ -227,7 +231,7 @@
         </div>
         <div class="products__item">
           <div class="product__header mb-3">
-            <a href="../product/single-product.php">
+            <a href="single-product.html">
               <div class="product__img-cont">
                 <img class="product__img w-100 h-100 object-fit-cover" src="App/assets/images/product-3.webp" data-id="white">
               </div>
@@ -241,7 +245,7 @@
             </div>
           </div>
           <div class="product__title text-center">
-            <a class="text-black text-decoration-none" href="../product/single-product.php">
+            <a class="text-black text-decoration-none" href="single-product.html">
               C# 10 in a Nutshell
             </a>
           </div>
@@ -259,7 +263,7 @@
         </div>
         <div class="products__item">
           <div class="product__header mb-3">
-            <a href="../product/single-product.php">
+            <a href="single-product.html">
               <div class="product__img-cont">
                 <img class="product__img w-100 h-100 object-fit-cover" src="App/assets/images/product-4.webp" data-id="white">
               </div>
@@ -273,7 +277,7 @@
             </div>
           </div>
           <div class="product__title text-center">
-            <a class="text-black text-decoration-none" href="../product/single-product.php">
+            <a class="text-black text-decoration-none" href="single-product.html">
               Algorithms عربي
             </a>
           </div>
@@ -291,7 +295,7 @@
         </div>
         <div class="products__item">
           <div class="product__header mb-3">
-            <a href="../product/single-product.php">
+            <a href="single-product.html">
               <div class="product__img-cont">
                 <img class="product__img w-100 h-100 object-fit-cover" src="App/assets/images/product-5.webp" data-id="white">
               </div>
@@ -305,7 +309,7 @@
             </div>
           </div>
           <div class="product__title text-center">
-            <a class="text-black text-decoration-none" href="../product/single-product.php">
+            <a class="text-black text-decoration-none" href="single-product.html">
               Head-First Design Patterns
             </a>
           </div>
